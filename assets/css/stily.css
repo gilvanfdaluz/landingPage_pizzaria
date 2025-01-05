@@ -228,9 +228,7 @@ section .information button:hover {
         margin-bottom: 100px;
     }
     footer, .trighs {
-        display: flex;
-        align-items: center;
-        justify-content: center;
+       line-height: 20px;
         width: 100%;
         text-align: center;
     }  
